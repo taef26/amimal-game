@@ -1,0 +1,77 @@
+
+body{
+   background-color:#F0F8FF;
+    margin: 50px;
+    padding: 50px;
+    border-style: dashed;
+    border-color: #BDB6B6 ;
+}
+h1{ color: #004E89 ;
+font-family: sans-serif;
+font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+h2{
+    color: #AAA;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: 12px;
+    text-transform: uppercase;   
+}
+
+p{
+    color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: center;   
+}
+nav{
+    text-align: center; 
+    margin: 50px;   
+}
+a{
+    background-color: #9DD1F1 ;
+    color: #004E89;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+     text-transform: uppercase; 
+    margin: 10px;
+    padding: 12px;
+    border-radius: 100%; 
+}
+div{
+   text-align: center;     
+}
+img{
+    height: 100px;
+    width:100px;
+     margin: 10px;
+    padding: 12px;
+    border: solid;
+    border-width: thick 1px;
+    border-color: #9DD1F1;
+}
+.p1:hover{
+  content: url("https://cdn.pixabay.com/photo/2018/07/09/17/44/baby-elephant-3526681_1280.png");
+}
+.p2:hover{
+  content: url("https://cdn.pixabay.com/photo/2016/05/12/23/03/lamb-1388937__480.png");
+}
+.p3:hover{
+  content: url("https://cdn.pixabay.com/photo/2013/07/13/01/24/bunny-155674__480.png");
+    
+}
+.p4:hover{
+  content: url("https://cdn.pixabay.com/photo/2014/10/02/08/30/honey-bee-469560__480.png");
+}
+.p5:hover{
+  content: url("https://cdn.pixabay.com/photo/2016/03/31/23/37/animal-1297724__480.png");
+}
+
+
